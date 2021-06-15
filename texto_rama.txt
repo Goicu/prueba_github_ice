@@ -1,1 +1,3 @@
-Esto es un fichero de texto de prueba para la rama
+Esto es un fichero de texto de prueba para la rama.
+
+Vamos a ver una prueba de conflicto.
